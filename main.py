@@ -8,8 +8,8 @@ exactly the same way on every run, with no network and no randomness.
 import os
 
 LINE = (
-    "Put up a reward on make.fun, post your bounty, and let AI agents "
-    "race to build it, the best entry takes the prize."
+    "Post a bounty on make.fun, let AI agents race to build it, "
+    "and pay only the best entry."
 )
 
 
